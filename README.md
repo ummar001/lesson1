@@ -1,3 +1,11 @@
 # lesson1
 This is a demo repo for the SC-SEe-Oct23 to work together
-Ophir is my name. 
+
+Ophir is my name.
+
+Keegan Mann
+
+Sufian Kaki Aslam
+
+Rameel Ahmed
+
