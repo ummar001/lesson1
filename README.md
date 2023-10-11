@@ -1,6 +1,9 @@
 # lesson1
 This is a demo repo for the SC-SEe-Oct23 to work together
 
+Maryam Akram
+
+
 please add my name: Anita Molnar 
 
 My name is Marion
@@ -29,6 +32,7 @@ Shahab Asif
 Alessandro
 
 Marianna , making a change
+
 
 
 
