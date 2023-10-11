@@ -1,6 +1,8 @@
 # lesson1
 This is a demo repo for the SC-SEe-Oct23 to work together
 
+please add my name: Anita Molnar 
+
 My name is Marion
 
 Dayyaan Butt
@@ -21,3 +23,4 @@ Sufian Kaki Aslam
 
 Marianna , making a change
 
+\
